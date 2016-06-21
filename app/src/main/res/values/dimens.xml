@@ -11,7 +11,8 @@
 
     <!--Sizes-->
     <dimen name="size_smallest_24">24dp</dimen>
-    <dimen name="size_small_48">48dp</dimen>
+    <dimen name="size_small_32">32dp</dimen>
+    <dimen name="size_normal_48">48dp</dimen>
     <dimen name="size_medium_56">56dp</dimen>
     <dimen name="size_large_72">72dp</dimen>
 
